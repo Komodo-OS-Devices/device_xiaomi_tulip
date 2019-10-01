@@ -430,6 +430,10 @@ PRODUCT_PACKAGES += \
     libcamera_sdm660_shim \
     libshim_dpmframework
 
+PRODUCT_DEXPREOPT_SPEED_APPS += \
+    Settings \
+    SystemUI
+
 # Tethering
 PRODUCT_PACKAGES += \
     TetheringConfigOverlay
