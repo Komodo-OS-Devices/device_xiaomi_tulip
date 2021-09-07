@@ -40,6 +40,6 @@ TARGET_BOOT_ANIMATION_RES := 1080
 
 # Fingerprint
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="redfin-user 11 RQ2A.210505.003 7255357 release-keys"
+    PRIVATE_BUILD_DESC="barbet-user 11 RD2A.210905.002 7513089 release-keys"
 
-BUILD_FINGERPRINT := google/redfin/redfin:11/RQ2A.210505.003/7255357:user/release-keys
+BUILD_FINGERPRINT := google/barbet/barbet:11/RD2A.210905.002/7513089:user/release-keys
